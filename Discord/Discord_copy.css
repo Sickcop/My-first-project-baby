@@ -1,0 +1,139 @@
+* {
+    border: sizing 0;
+    margin: 0;
+    top:0;
+}
+
+body {
+    background-image:url(Media/Background.jpg);
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    width: 900px;
+    height: 450px;
+    position: absolute;
+    margin: 100px 300px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: #313338;
+}
+
+.box1 {
+    /* border: 2px solid #496abe; */
+    width: 550px;
+    height: 446px;
+    position: relative;
+    float: left;
+}
+
+.box2 {
+    /* border: 2px solid #496abe; */
+    width: 250px;
+    height: 446px;
+    position: relative;
+    float: left;
+    text-align: center;
+    margin-left:40px;
+}
+
+.position-h1 {
+    margin-top: 40px;
+    text-align: center
+}
+
+.Pnos {
+    text-align: center;
+    margin-top: 10px;
+}
+
+form {
+    position: relative;
+    top: 30px;
+    left: 30px;
+    display: block;
+}
+
+.login {
+    width: 450px;
+    height: 40px;
+    border-style: none;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus {
+    outline: none;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+.correo {
+    margin-bottom: 8px;
+
+}
+
+.pass {
+    margin-top: 5px;
+
+}
+
+h1 {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+p {
+    color: #A8ADB4;
+
+}
+
+button {
+    background-color: #5865F2;
+   
+    padding: 10px;
+    border-radius: 3px;
+    border-style: none;
+
+}
+
+a {
+    color: rgb(0, 154, 220);
+    text-decoration: none;
+}
+
+.span {
+    font-weight: bold;
+
+}
+
+.colorAster {
+    color: rgb(225, 0, 0);
+    font-size: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button:hover {
+    opacity: 80%;
+
+}
+
+.boton:hover {
+    opacity: 120%;
+}
+
+.boton {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}

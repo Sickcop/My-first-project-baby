@@ -1,0 +1,157 @@
+body {
+    background-color: black;
+}
+
+.containerUno {
+    width: 500px;
+    height: 320px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+div {
+    border-radius: 3px;
+}
+
+.containerDos {
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 0 auto;
+
+}
+
+.containerContainer {
+ width: 450px;
+ height: 300px;
+ margin: 0px auto;
+}
+
+.footerDiv {
+    width: 500px;
+    margin: 70px auto;
+    font-size: 12px;
+    text-align: center;
+    color: rgb(79, 78, 78);
+}
+
+.footerDiv a {
+    text-decoration: none;
+    color: rgb(158, 158, 158);
+}
+
+span {
+    color: rgb(159, 159, 159);
+}
+
+.AutRights {
+    font-size: smaller;
+}
+
+.logo {
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.textUno {
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+
+.captcha {
+    position: absolute;
+    left: -190px;
+    bottom: 15px;
+    width: 260px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.create {
+    color: darkorange;
+    text-decoration: none;
+}
+
+.captchaText {
+    font-size: 10px;
+    position: absolute;
+    bottom: 5px;
+    right: 3px;
+    color: rgb(101, 101, 101);
+}
+
+.imgCap {
+    float: right;
+    margin: 8px 12px 5px;
+    
+}
+
+.forms {
+    width: 442px;
+    height: 40px;
+}
+
+.sign-in {
+    float: right;
+    height: 45px;
+    width: 100px;
+    background-color: darkorange;
+    border-style: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.logoConsoles {
+    float: right;
+    margin: 15px 10px 10px 0px;
+
+}
+
+.consolesBox {
+    width: 200x;
+    height: 100px;
+    float: right;
+    margin-right: 20px;
+    border: 1px solid salmon;
+}
+
+.siguin {
+    display: inline-block;
+    margin-top: 35px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: rgb(79, 78, 78);
+}
+
+.siguinn {
+        color: rgb(79, 78, 78);    
+
+}
+
+.h1 {
+    display: inline-block;
+    margin-top: 25px;
+    color: rgb(79, 78, 78);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.check {
+    cursor: pointer;
+    background-color: #fff;
+    width: 20px;
+    height: 20px;
+    appearance: none;
+    border: 2px solid #888;
+    border-radius: 4px;
+}
+
+.check:focus {
+    border-color: chocolate;
+}
